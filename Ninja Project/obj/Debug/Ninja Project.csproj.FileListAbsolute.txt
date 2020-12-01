@@ -1,0 +1,12 @@
+C:\Users\zespe\Desktop\panels\Ninja\Ninja Project\Ninja Project\bin\Debug\Ninja Project.exe.config
+C:\Users\zespe\Desktop\panels\Ninja\Ninja Project\Ninja Project\bin\Debug\Ninja Project.exe
+C:\Users\zespe\Desktop\panels\Ninja\Ninja Project\Ninja Project\bin\Debug\Ninja Project.pdb
+C:\Users\zespe\Desktop\panels\Ninja\Ninja Project\Ninja Project\bin\Debug\Guna.UI2.dll
+C:\Users\zespe\Desktop\panels\Ninja\Ninja Project\Ninja Project\obj\Debug\Ninja Project.csprojAssemblyReference.cache
+C:\Users\zespe\Desktop\panels\Ninja\Ninja Project\Ninja Project\obj\Debug\Ninja_Project.Form1.resources
+C:\Users\zespe\Desktop\panels\Ninja\Ninja Project\Ninja Project\obj\Debug\Ninja_Project.Properties.Resources.resources
+C:\Users\zespe\Desktop\panels\Ninja\Ninja Project\Ninja Project\obj\Debug\Ninja Project.csproj.GenerateResource.cache
+C:\Users\zespe\Desktop\panels\Ninja\Ninja Project\Ninja Project\obj\Debug\Ninja Project.csproj.CoreCompileInputs.cache
+C:\Users\zespe\Desktop\panels\Ninja\Ninja Project\Ninja Project\obj\Debug\Ninja Project.csproj.CopyComplete
+C:\Users\zespe\Desktop\panels\Ninja\Ninja Project\Ninja Project\obj\Debug\Ninja Project.exe
+C:\Users\zespe\Desktop\panels\Ninja\Ninja Project\Ninja Project\obj\Debug\Ninja Project.pdb
